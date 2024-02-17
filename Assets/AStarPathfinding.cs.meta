@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6cff2c5463051274e96f7d60233d643c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startTile: {instanceID: 0}
+  - currentTile: {instanceID: 0}
+  - goalTile: {instanceID: 0}
+  - newTile: {instanceID: 0}
+  - openMaterial: {fileID: 2100000, guid: 97a2afba79d45b344afd5d66d1fc24f6, type: 2}
+  - closeMaterial: {fileID: 2100000, guid: d308d9c2801ce01419bb00aad15988ab, type: 2}
+  - endMaterial: {fileID: 2100000, guid: 6eb2a0a1a43cfed468cb1265524b8eb8, type: 2}
+  - board: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
